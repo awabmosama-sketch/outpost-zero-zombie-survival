@@ -58,5 +58,7 @@ Make sure you have **Node.js** installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/outpost-zero-zombie-survival.git](https://github.com/your-username/outpost-zero-zombie-survival.git)
+   git clone https://github.com/awabmosama-sketch/outpost-zero-zombie-survival.git
    cd outpost-zero-zombie-survival
+   npm install
+   npm run dev
