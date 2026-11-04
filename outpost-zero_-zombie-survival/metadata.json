@@ -1,0 +1,6 @@
+{
+  "name": "Outpost Zero: Zombie Survival",
+  "description": "Tactical round-based 2D zombie survival shooter featuring realistic operative & mutant rendering, live session dashboard, in-game armory shop, and round-activated Cyber-Forge upgrade machine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
